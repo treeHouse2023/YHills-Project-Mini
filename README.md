@@ -52,7 +52,8 @@ The Task Tracker application is a simple web application that allows users to cr
 - The task will be removed from the list.
 
 ## Screenshots
-*(You can include screenshots of the application interface here.)*
+![Screenshot 2024-08-04 151425](https://github.com/user-attachments/assets/dc85ae0b-7f49-4332-8549-3d49a6001322)
+
 
 ## Demo
 (https://treehouse2023.github.io/YHills-Project-Mini/)
